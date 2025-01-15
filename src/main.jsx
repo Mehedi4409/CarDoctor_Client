@@ -12,6 +12,8 @@ import Home from './components/Home/Home';
 import Login from './components/Login';
 import Signin from './components/Signin';
 import AuthProvider from './Context/AuthProvider';
+import ServiceDetails from './components/ServiceDetails/ServiceDetails';
+import Checkout from './components/Checkout';
 
 
 const router = createBrowserRouter([
@@ -30,7 +32,17 @@ const router = createBrowserRouter([
       {
         path: '/signin',
         element: <Signin></Signin>
-      }
+      },
+      {
+        path: '/details/:id',
+        element: <ServiceDetails></ServiceDetails>,
+        loader: ({params}) =>fetch(`http://localhost:5000/service/${params.id}`)
+      },
+      {
+        path: '/checkout/:id',
+        element: <Checkout></Checkout>,
+        loader: ({params}) =>fetch(`http://localhost:5000/service/${params.id}`)
+      },
     ]
   }
 
