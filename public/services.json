@@ -1,0 +1,158 @@
+[
+    {
+        "_id": "635a0c0b64a6d231228942ae",
+        "service_id": "04",
+        "title": "Engine Oil Change",
+        "img": "https://i.ibb.co/T2cpBd5/888.jpg",
+        "price": "49.99",
+        "description": "Keep your engine running smoothly with our high-quality oil change service. Includes a complete drain and refill with premium oil and a new filter.",
+        "facility": [
+            {
+                "name": "Fast Service",
+                "details": "Get your oil changed in 30 minutes or less by our experienced technicians."
+            },
+            {
+                "name": "Premium Oil Options",
+                "details": "Choose from synthetic, high-mileage, or conventional oils to suit your vehicle's needs."
+            },
+            {
+                "name": "Complimentary Inspection",
+                "details": "Includes a 15-point vehicle check to ensure your car is in top condition."
+            },
+            {
+                "name": "Eco-Friendly Disposal",
+                "details": "We ensure proper recycling of used oil to protect the environment."
+            }
+        ]
+    },
+    {
+        "_id": "635a0c0b64a6d231228942af",
+        "service_id": "05",
+        "title": "Battery Diagnostic & Charging",
+        "img": "https://i.ibb.co/ydCbDN3/5555.jpg",
+        "price": "29.99",
+        "description": "Ensure your car battery is in optimal condition with our diagnostic and charging services. Includes voltage testing and recharge as needed.",
+        "facility": [
+            {
+                "name": "Advanced Diagnostics",
+                "details": "State-of-the-art equipment to assess battery health and performance."
+            },
+            {
+                "name": "Quick Charging",
+                "details": "Efficient charging service to get you back on the road quickly."
+            },
+            {
+                "name": "Battery Replacement",
+                "details": "Affordable replacement options available if your battery needs replacement."
+            },
+            {
+                "name": "Warranty Support",
+                "details": "We assist with manufacturer warranties on your battery."
+            }
+        ]
+    },
+    {
+        "_id": "635b591a1dafe382a9da8c96",
+        "service_id": "01",
+        "title": "Full Car Repair",
+        "img": "https://i.ibb.co/R6Z2nFM/55.jpg",
+        "price": "399.99",
+        "description": "Comprehensive repair service for all major and minor issues. Includes diagnostics, replacement parts, and labor for a full vehicle restoration.",
+        "facility": [
+            {
+                "name": "All-Inclusive Repairs",
+                "details": "Covers engine, brakes, suspension, and more for complete peace of mind."
+            },
+            {
+                "name": "Experienced Mechanics",
+                "details": "Certified professionals with years of experience in vehicle repair."
+            },
+            {
+                "name": "OEM Parts",
+                "details": "We use only original equipment manufacturer parts for guaranteed quality."
+            },
+            {
+                "name": "Warranty Included",
+                "details": "Our repairs come with a 12-month/12,000-mile warranty."
+            }
+        ]
+    },
+    {
+        "_id": "635b5afc1dafe382a9da8c98",
+        "service_id": "02",
+        "title": "Engine Repair",
+        "img": "https://i.ibb.co/5MvmD2g/88.jpg",
+        "price": "299.99",
+        "description": "Expert engine repair service to address issues such as overheating, strange noises, or loss of power. We restore your engine's performance and reliability.",
+        "facility": [
+            {
+                "name": "Detailed Diagnostics",
+                "details": "Pinpoint engine issues with our advanced diagnostic tools."
+            },
+            {
+                "name": "Skilled Technicians",
+                "details": "Our team specializes in all types of engine repairs, from minor fixes to major overhauls."
+            },
+            {
+                "name": "High-Quality Components",
+                "details": "We use top-tier parts to ensure long-lasting repairs."
+            },
+            {
+                "name": "Transparent Pricing",
+                "details": "Receive an upfront estimate with no hidden costs."
+            }
+        ]
+    },
+    {
+        "_id": "635b5b691dafe382a9da8c99",
+        "service_id": "03",
+        "title": "Automatic Transmission Service",
+        "img": "https://i.ibb.co/wh7t3N3/555.jpg",
+        "price": "249.99",
+        "description": "Maintain your vehicle's automatic transmission with our specialized service. Includes fluid replacement, filter change, and performance testing.",
+        "facility": [
+            {
+                "name": "Fluid Replacement",
+                "details": "We use manufacturer-recommended fluids for optimal performance."
+            },
+            {
+                "name": "Performance Check",
+                "details": "Comprehensive testing to ensure smooth gear transitions."
+            },
+            {
+                "name": "Filter Cleaning or Replacement",
+                "details": "Ensure your transmission remains free from debris and buildup."
+            },
+            {
+                "name": "Preventive Maintenance",
+                "details": "Helps avoid costly future repairs and prolongs transmission life."
+            }
+        ]
+    },
+    {
+        "_id": "635b5ba51dafe382a9da8c9a",
+        "service_id": "06",
+        "title": "Electrical System Diagnosis",
+        "img": "https://i.ibb.co/KzCG8qr/8888.jpg",
+        "price": "59.99",
+        "description": "Identify and resolve electrical issues, including battery, alternator, and wiring problems. Comprehensive checks for all electrical systems.",
+        "facility": [
+            {
+                "name": "Comprehensive Testing",
+                "details": "Detailed diagnostics to pinpoint electrical faults."
+            },
+            {
+                "name": "Certified Electricians",
+                "details": "Trained professionals adept at handling modern vehicle electronics."
+            },
+            {
+                "name": "Repairs and Upgrades",
+                "details": "Fix faulty systems or upgrade to enhance performance."
+            },
+            {
+                "name": "Affordable Solutions",
+                "details": "Cost-effective services with a focus on long-term reliability."
+            }
+        ]
+    }
+]
